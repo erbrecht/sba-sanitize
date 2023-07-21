@@ -1,4 +1,4 @@
-package edu.drexel.it.sbadmintest;
+package com.example.sbadmintest;
 
 import de.codecentric.boot.admin.server.config.EnableAdminServer;
 import org.springframework.boot.SpringApplication;
